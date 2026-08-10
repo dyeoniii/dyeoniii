@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dyeoniii&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dyeoniii"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **dyeoniii/dyeoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
