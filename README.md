@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dyeoniii&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/dyeoniii"
-    width="600"
-    height="120"
-  />
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/874797388882097657/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
   
 
 <!--
